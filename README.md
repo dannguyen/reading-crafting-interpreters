@@ -7,7 +7,7 @@ Check out the table of contents here: https://craftinginterpreters.com/contents.
 Read Nystrom's Show HN thread from January 2017: https://news.ycombinator.com/item?id=13406081
 
 <a href="https://craftinginterpreters.com">
-<img src="assets/images/crafting-interpreters-homepage.png" alt="crafting-interpreters-homepage.png">
+<img src="chapters/assets/images/crafting-interpreters-homepage.png" alt="crafting-interpreters-homepage.png">
 </a>
 
 --------
