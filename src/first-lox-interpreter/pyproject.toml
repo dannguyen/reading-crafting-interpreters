@@ -1,14 +1,17 @@
 [tool.poetry]
 name = "first-lox-interpreter"
 version = "0.1.0"
-description = ""
+description = "An implementation of Bob Nystrom's first Lox interpreter in his book, 'Crafting Interpreters'"
 authors = ["Dan Nguyen <dansonguyen@gmail.com>"]
-
+repository = 'https://github.com/dannguyen/reading-crafting-interpreters'
 [tool.poetry.dependencies]
 python = "^3.7"
 
 [tool.poetry.dev-dependencies]
+ipython = "^6.5"
 pytest = "^3.0"
+pdbpp = '*'
+
 
 [build-system]
 requires = ["poetry>=0.12"]
